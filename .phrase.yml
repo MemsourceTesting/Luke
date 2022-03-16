@@ -1,0 +1,16 @@
+phrase:
+  access_token: 0585ec5030672298a7f560e444fa156af1ce63720966106ef4e9a640e7161569  
+  project_id: 1ece82520559752700dcdafa71419dd7
+ 
+  push:
+    sources:
+      - file: ./english.json
+        params:
+          file_format: simple_json
+          locale_id: d153fd2805877e153988fd7af44de16a
+
+  pull:
+    targets:
+      - file: ./english_<locale_name>.json
+        params:
+          file_format:simple_json
