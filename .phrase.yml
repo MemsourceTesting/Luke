@@ -4,7 +4,7 @@ phrase:
  
   push:
     sources:
-      - file: ./english.json
+      - file: ./Luke/english.json
         params:
           file_format: simple_json
           locale_id: d153fd2805877e153988fd7af44de16a
