@@ -1,0 +1,15 @@
+phrase:
+  project_id: eab1ee3c3cd1e8a2931d7699050ff90a
+  file_format: simple_json
+  
+  push:
+    sources:
+    - file: ./Luke/en.json
+      params:
+        locale_id: 850ed3839fe6a04dc8e4eff37dd372d3
+          
+  pull:
+    targets:
+    - file: ./Luke/cs.json
+      params:
+        locale_id: de7561848ee8cf32c2d786691a76a36c
