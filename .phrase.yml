@@ -7,6 +7,7 @@ phrase:
     - file: ./Luke/en.json
       params:
         locale_id: 850ed3839fe6a04dc8e4eff37dd372d3
+        update_translations: true
           
   pull:
     targets:
