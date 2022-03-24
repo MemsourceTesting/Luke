@@ -19,7 +19,7 @@ de:
             - legally_secure_certified_mail
     page_not_found:
       error: Fehler
-      error_number: '404'
+      error_number: '123'
       title: Tut uns leid, die von dir aufgerufene Seite gibt es nicht.
     products:
       accelerated_termination_domestic:
@@ -32,4 +32,4 @@ de:
         icon: truck
         label: Ja, ich möchte eine Expressbestätigung für nur %{price} inkl. MwSt.
         title: Expressbestätigung
-        vwo_id: '233'
+        vwo_id: '321'
