@@ -4,22 +4,22 @@ de:
     checkout_form:
       products:
         all_benefits_by_product_category:
-          basic: |-
+          basic: 
             - cancellation_sent_immediately
             - customer_service_by_email_and_phone
-          secure: |-
+          secure: 
             - proof_of_dispatch
             - shipment_tracking
             - legally_secure_certified_mail
             - lawyer_acting_as_witness
-          secure_email: |-
+          secure_email: 
             - proof_of_dispatch
             - lawyer_acting_as_witness
             - shipment_tracking
             - legally_secure_certified_mail
     page_not_found:
       error: Fehler
-      error_number: '123'
+      error_number: 123
       title: Tut uns leid, die von dir aufgerufene Seite gibt es nicht.
     products:
       accelerated_termination_domestic:
@@ -32,4 +32,4 @@ de:
         icon: truck
         label: Ja, ich möchte eine Expressbestätigung für nur %{price} inkl. MwSt.
         title: Expressbestätigung
-        vwo_id: '321'
+        vwo_id: 321
