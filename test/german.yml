@@ -4,10 +4,9 @@ de:
     checkout_form:
       products:
         all_benefits_by_product_category:
-          basic: |2-
-
-            - I_want_to_test_this_markdown?
-            - email_and_phone_details
+          basic: 
+            I_want_to_test_this_markdown?
+            email_and_phone_details
     page_not_found:
       error: Error fatalus!?
       error_number: 240 774 557
