@@ -9,4 +9,4 @@ de:
           - customer_service_by_email_and_phone
     page_not_found:
       error: Fehler
-      error_number: 404
+      error_number: 123
