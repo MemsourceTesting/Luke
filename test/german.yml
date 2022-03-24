@@ -4,9 +4,10 @@ de:
     checkout_form:
       products:
         all_benefits_by_product_category:
-          basic:
-          - translation1
-          - translatoin2
+          basic: |-
+            ---
+            - translation1
+            - translatoin2
     page_not_found:
       error: Fehler
       error_number: 802
