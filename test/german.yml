@@ -4,9 +4,9 @@ de:
     checkout_form:
       products:
         all_benefits_by_product_category:
-          basic: |-
-            - cancellation_sent_immediately
-            - customer_service_by_email_and_phone
+          basic:
+          - cancellation_sent_immediately
+          - customer_service_by_email_and_phone
     page_not_found:
-      error: Error
-      error_number: '123'
+      error: Error fatalus
+      error_number: 666
