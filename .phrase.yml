@@ -1,12 +1,13 @@
 phrase:
-  project_id: eab1ee3c3cd1e8a2931d7699050ff90a
-  file_format: simple_json
+  project_id: 53562a79e9e4d2a3449c647603d2f7eb
+  file_format: yml
   
   push:
     sources:
-    - file: ./Luke/en.json
+    - file: ./Luke/de.json
       params:
-        locale_id: 850ed3839fe6a04dc8e4eff37dd372d3
+        locale_id: 405683e72a9dbc286c68ce0420736f6a
+        tags: frontend
         update_translations: true
           
   pull:
