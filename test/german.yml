@@ -1,6 +1,5 @@
 ---
 de:
-  forms:
   frontend:
     checkout_form:
       products:
