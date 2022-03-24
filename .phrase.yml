@@ -12,6 +12,6 @@ phrase:
           
   pull:
     targets:
-    - file: ./Luke/cs.json
+    - file: ./Luke/de.json
       params:
-        locale_id: de7561848ee8cf32c2d786691a76a36c
+        locale_id: 405683e72a9dbc286c68ce0420736f6a
