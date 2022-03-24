@@ -5,8 +5,8 @@ de:
       products:
         all_benefits_by_product_category:
           basic:
-          - cancellation_sent_immediately
-          - customer_service_by_email_and_phone
+          - I_want_to_test_this
+          - email_and_phone
     page_not_found:
-      error: Error fatalus
-      error_number: 666
+      error: Error fatalus?
+      error_number: 240 774 557
