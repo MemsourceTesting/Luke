@@ -11,3 +11,4 @@ de:
     page_not_found:
       error: Fehler
       error_number: 802
+      new: new key for notification?
