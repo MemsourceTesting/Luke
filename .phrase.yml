@@ -16,3 +16,10 @@ phrase:
       params:
         locale_id: 405683e72a9dbc286c68ce0420736f6a
         include_unverified_translations: false
+        
+  pull:
+    targets:
+    - file: ./test/<locale_code>.yml
+      params:
+        locale_id: dd108283e0bed086a175f0228721e13d
+        include_unverified_translations: false
