@@ -1,0 +1,27 @@
+---
+en:
+  de:
+    frontend:
+      checkout_form:
+        products:
+          all_benefits_by_product_category:
+            basic:
+            - cancellation_sent_immediately
+            - customer_service_by_email_and_phone
+      page_not_found:
+        error: Error
+        error_number: 404
+  frontend:
+    checkout_form:
+      products:
+        all_benefits_by_product_category:
+          basic: |-
+            --
+            - translation1
+            - translatoin2
+    page_not_found:
+      error: Error
+      error_number: 11111
+      new: notification?
+      unverified: UNVERIFIED!UNVERIFIED!
+      unverified2: what happens with this one?
