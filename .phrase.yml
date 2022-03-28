@@ -15,3 +15,4 @@ phrase:
     - file: ./test/german.yml
       params:
         locale_id: 405683e72a9dbc286c68ce0420736f6a
+        include_unverified_translations: false
