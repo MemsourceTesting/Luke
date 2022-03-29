@@ -1,25 +1,31 @@
 phrase:
   project_id: 53562a79e9e4d2a3449c647603d2f7eb
-  file_format: yml
+  file_format: simple_json
   
   push:
     sources:
-    - file: ./test/german.yml
+    - file: ./test/german_brand_new.json
       params:
         locale_id: 405683e72a9dbc286c68ce0420736f6a
-        tags: frontend
         update_translations: true
-          
+     
+  push:
+    sources:
+    - file: ./test/german_new.json
+      params:
+        locale_id: 405683e72a9dbc286c68ce0420736f6a
+        update_translations: true
+ 
   pull:
     targets:
-    - file: ./test/german.yml
+    - file: ./test/<locale_code>.json
       params:
         locale_id: 405683e72a9dbc286c68ce0420736f6a
         include_unverified_translations: false
         
   pull:
     targets:
-    - file: ./test/<locale_code>.yml
+    - file: ./test/<locale_code>.json
       params:
         locale_id: dd108283e0bed086a175f0228721e13d
         include_unverified_translations: false
