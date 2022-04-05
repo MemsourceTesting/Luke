@@ -4,11 +4,11 @@
      <body>
       <trans-unit id="1">
         <source>Top navigation</source>
-        <source>Top navigation</source>
+        <target>Top navigation</target>
       </trans-unit>
       <trans-unit id="2">
         <source>Bottom navigation</source>
-        <source>Bottom navigation</source>
+        <target>Bottom navigation</target>
       </trans-unit>
      </body>
   </file>
