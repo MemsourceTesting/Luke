@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+    <file original="enforePOS.csv" source-language="en" datatype="plaintext" xml:space="preserve" target-language="pl">
+        <body>
+            <trans-unit id="n4">
+                <source>Enter Card, Voucher or Coupon ID</source>
+                <target state="new">Kartunek</target>
+            </trans-unit>
+            <trans-unit id="n4.applications">
+                <source>Manual</source>
+                <target state="new">Manuálo</target>
+            </trans-unit>
+		   </body>
+    </file>
+</xliff>
