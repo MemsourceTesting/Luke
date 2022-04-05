@@ -2,13 +2,13 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
     <file original="enforePOS.csv" source-language="en" datatype="plaintext" xml:space="preserve" target-language="pl">
         <body>
-            <trans-unit id="n4">
+            <trans-unit id="n4" translate="yes">
                 <source>Enter Card, Voucher or Coupon ID</source>
                 <target state="new">Wprowadź identyfikator karty, kuponu lub kuponu</target>
             </trans-unit>
-            <trans-unit id="n4.applications">
+            <trans-unit id="n4.applications" translate="yes">
                 <source>Manual</source>
-                <target state="new">Manuálo</target>
+                <target state="new">podręcznik</target>
             </trans-unit>
 		   </body>
     </file>
