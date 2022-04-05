@@ -4,11 +4,11 @@
         <body>
             <trans-unit id="n4" translate="yes">
                 <source>Enter Card, Voucher or Coupon ID</source>
-                <target state="new">Wprowadź identyfikator karty, kuponu lub kuponu</target>
+                <target state="new">Kartunek</target>
             </trans-unit>
             <trans-unit id="n4.applications" translate="yes">
                 <source>Manual</source>
-                <target state="new">podręcznik</target>
+                <target state="new">Manuálo</target>
             </trans-unit>
 		   </body>
     </file>
