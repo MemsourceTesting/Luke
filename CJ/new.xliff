@@ -10,6 +10,10 @@
         <source>Bottom navigation</source>
         <target>Bottom navigation</target>
       </trans-unit>
+      <trans-unit id="3">
+        <source>Middle navigation</source>
+        <target>Middle navigation</target>
+      </trans-unit>
      </body>
   </file>
 </xliff>
