@@ -3,7 +3,7 @@
   <file source-language="en" datatype="plaintext" original="ng2.template">
     <body>
       <trans-unit id="access-top-nav" datatype="html">
-        <source>Top navigation</source>
+        <source>Top navigation changed!</source>
         <context-group purpose="location">
           <context context-type="sourcefile">djungelskog/src/app/app.component.html</context>
           <context context-type="linenumber">3</context>
@@ -18,6 +18,13 @@
       </trans-unit>
       <trans-unit id="open-navigation" datatype="html">
         <source>Open navigation</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">djungelskog/src/app/components/topnav/topnav.component.html</context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="close-navigation" datatype="html">
+        <source>Close new navigation</source>
         <context-group purpose="location">
           <context context-type="sourcefile">djungelskog/src/app/components/topnav/topnav.component.html</context>
           <context context-type="linenumber">8</context>
