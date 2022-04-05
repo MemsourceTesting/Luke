@@ -32,6 +32,6 @@
             <trans-unit id="n4.applications.enforePOS.actions.businessAccount" resname="n4.applications.enforePOS.actions.businessAccount">
                 <source>Business Account</source>
                 <target state="new">Business Account</target>
-		</body>
+	</body>
     </file>
 </xliff>
