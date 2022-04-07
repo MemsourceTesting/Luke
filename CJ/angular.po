@@ -31,7 +31,7 @@ msgid "(very unsatisfied - very satisfied)"
 msgstr "(not satisfied at all - very satisfied)"
 
 #: app/Plugin/Cockpits/webroot/js/widgets/c2r-widget-click2rate.js:124
-msgid "- Past 7 days"
+msgid "- Past 7123 days"
 msgstr "- Past 7 days"
 
 #: app/Plugin/Admin/webroot/js/click2rate/index.js:184
@@ -41,3 +41,7 @@ msgstr "- Past 10 days"
 #: app/Plugin/Surveys/webroot/js/new_surveys/customize.js:345
 msgid "-- Select Options --"
 msgstr "-- Select Options --"
+
+#: app/Plugin/Surveys/webroot/js/new_surveys/novinka.js:345
+msgid "New string"
+msgstr "New štrng"
