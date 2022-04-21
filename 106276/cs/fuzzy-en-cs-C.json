@@ -1,8 +1,8 @@
 {
-"key1": "Jedná se o fuzzy zápasový test.",
-"key2": "Toto je test přesné shody.",
-"key3": "Toto je test shody kontextu.",
-"key4": "Jedná se o vysoce kvalitní překlad.",
-"key5": "Jedná se o překlad standardní kvality?",
-"key6": "To byl kdysi hrozný překlad, ale teď je to všechno dobré!"
+"key1": "This is a fuzzy match test.",
+"key2": "This is an exact match test.",
+"key3": "This is a context match test.",
+"key4": "This is a high-quality translation.",
+"key5": "Is this a translation of standard quality?",
+"key6": "This was once a horrible translation, but it is all good now!"
 }
