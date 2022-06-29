@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:mq="MQXliff" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+<file original="Greases label slate Dec 2020.xlsx" mq:id="1cafaf43-8ff1-4174-80d5-8ae915443870" mq:projectid="fed9fc08-d650-eb11-81f1-00155d011201" source-language="en" target-language="cs" datatype="x-MemoQ.DocConverters.MuLiDelimited.MuLiDelimitedConverter">
+<body>
+<trans-unit id="1" mq:minorversionend="1" mq:minorversionstart="0" mq:status="NotStarted" mq:segmentguid="1dae8cab-094c-4f9a-8438-5d462de1e065" mq:lastchangedtimestamp="0001-01-01T00:00:00Z" mq:maxlengthchars="-1" mq:nosplitjoin="true" mq:firstlabel="0" mq:lastlabel="0" mq:autosplitjoinstate="0" mq:lastmodifrole="0" mq:multipleexactmatch="false">
+<source xml:space="preserve" mq:segpart="0">Contains Benzenesulfonic acid, di-C10-14-alkyl derivatives, Calcium salts.</source>
+<target xml:space="preserve">Chemistry shit</target>
+<mq:minorversions>
+</mq:minorversions>
+<mq:startingws xml:space="preserve" />
+<mq:endingws xml:space="preserve"> </mq:endingws>
+<mq:commitinfos xmlns="MQXliff" /><mq:nosplitjoins><mq:nosplitjoin type="JoinPrevious" reason="filer" /></mq:nosplitjoins>
+<mq:originalsource edited="false" />
+</trans-unit>
+<trans-unit id="2" mq:minorversionend="1" mq:minorversionstart="0" mq:status="NotStarted" mq:segmentguid="2e4404ee-4475-4635-8781-1004f8d27aa3" mq:lastchangedtimestamp="0001-01-01T00:00:00Z" mq:maxlengthchars="-1" mq:nosplitjoin="true" mq:firstlabel="0" mq:lastlabel="0" mq:autosplitjoinstate="0" mq:lastmodifrole="0" mq:multipleexactmatch="false">
+<source xml:space="preserve" mq:segpart="0">May produce an allergic reaction.</source>
+<target xml:space="preserve">Wrong example</target>
+<mq:minorversions>
+</mq:minorversions>
+<mq:startingws xml:space="preserve" />
+<mq:endingws xml:space="preserve" />
+<mq:commitinfos xmlns="MQXliff" /><mq:nosplitjoins><mq:nosplitjoin type="JoinNext" reason="filer" /></mq:nosplitjoins>
+<mq:originalsource edited="false" />
+</trans-unit>
+<trans-unit id="3" mq:minorversionend="1" mq:minorversionstart="0" mq:status="NotStarted" mq:segmentguid="ec30678d-d950-4fc6-aefb-7c7afbf70007" mq:lastchangedtimestamp="0001-01-01T00:00:00Z" mq:maxlengthchars="-1" mq:nosplitjoin="true" mq:firstlabel="1" mq:lastlabel="1" mq:autosplitjoinstate="0" mq:lastmodifrole="0" mq:multipleexactmatch="false">
+<source xml:space="preserve" mq:segpart="1">Toxic to aquatic life with long lasting effects.</source>
+<target xml:space="preserve">test target</target>
+<mq:minorversions>
+</mq:minorversions>
+<mq:startingws xml:space="preserve" />
+<mq:endingws xml:space="preserve"> </mq:endingws>
+<mq:commitinfos xmlns="MQXliff" /><mq:nosplitjoins><mq:nosplitjoin type="JoinPrevious" reason="filer" /></mq:nosplitjoins>
+<mq:originalsource edited="false" />
+</trans-unit>
+</body>
+</file>
+</xliff>
