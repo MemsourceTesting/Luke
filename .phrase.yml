@@ -1,31 +1,15 @@
 phrase:
-  project_id: 53562a79e9e4d2a3449c647603d2f7eb
-  file_format: simple_json
-  
+  project_id: 6480e2728c93142480a902a6d3d91d25
   push:
     sources:
-    - file: ./test/german_brand_new.json
+    - file: ./src/locales/<locale_name>.json
       params:
-        locale_id: 405683e72a9dbc286c68ce0420736f6a
-        update_translations: true
-     
-  push:
-    sources:
-    - file: ./test/german_new.json
-      params:
-        locale_id: 405683e72a9dbc286c68ce0420736f6a
-        update_translations: true
- 
+        file_format: simple_json
+        format_options:
+          enable_pluralization: false
   pull:
     targets:
-    - file: ./test/<locale_code>.json
+    - file: ./src/locales/<locale_name>.json
       params:
-        locale_id: 405683e72a9dbc286c68ce0420736f6a
-        include_unverified_translations: false
-        
-  pull:
-    targets:
-    - file: ./test/<locale_code>.json
-      params:
-        locale_id: dd108283e0bed086a175f0228721e13d
-        include_unverified_translations: false
+        file_format: simple_json
+        include_empty_translations: true
