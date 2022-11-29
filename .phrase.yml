@@ -2,7 +2,7 @@ phrase:
   project_id: 6480e2728c93142480a902a6d3d91d25
   push:
     sources:
-    - file: ./src/locales/en.json
+    - file: ./locales/en.json
       params:
         file_format: simple_json
         locale_id: 2af680c3fb559bb7edabd6105d2d7cfd
@@ -10,7 +10,7 @@ phrase:
           enable_pluralization: false
   pull:
     targets:
-    - file: ./src/locales/<locale_name>.json
+    - file: ./locales/cs.json
       params:
         file_format: simple_json
         locale_id: 8d02b5d44a7ece6d315688046cc89954
