@@ -6,7 +6,7 @@ phrase:
       params:
         file_format: simple_json
         locale_id: en
-        auto_translate: true
+        autotranslate: true
         format_options:
           enable_pluralization: false
   pull:
