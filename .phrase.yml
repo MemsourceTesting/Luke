@@ -1,5 +1,5 @@
 phrase:
-  project_id: 6480e2728c93142480a902a6d3d91d25
+  project_id: 2fa4005b4259b1cc3a5ad7eee01e7896
   push:
     sources:
     - file: ./locales/en.json
